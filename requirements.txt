@@ -1,0 +1,6 @@
+jupyterlab==4.0.12
+jupyterlab-spellchecker
+jupyterlab-deck
+jupyterlab_myst
+ipywidgets
+ipympl
